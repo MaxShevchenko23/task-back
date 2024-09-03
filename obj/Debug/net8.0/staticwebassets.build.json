@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iK7HgvyBgP3k4ggnMo8zTbWpCNYO8vAb/A/4MnxV25w=",
+  "Source": "url-shortener-server",
+  "BasePath": "_content/url-shortener-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

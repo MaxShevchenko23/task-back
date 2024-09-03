@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\url-shortener-server.props" />
+</Project>
